@@ -1,4 +1,4 @@
-hello im 13 years old when i created this github account along with my replit account and im interested on some sort of making 2d and 3d animations, programming, and i want to learn black hat hacking
+hello im 13 years old when i created this github account along with my replit account and im interested on some sort of making 2d and 3d animations, programming, and i want to learn black hat hacking, I am also learning about nmap, osint and maltego
 
 # 💫 About Me:
 I'm currently learning quite about operating system development, c sharp and c++, and im looking forward learning assembly soon<br>I'm looking forward to collaborating with professionals or someone who is a passionate coder or programmer<br>I have experience coding in HTML, CSS, JAVASCRIPT, PHP, EXPRESS.JS, BOOTSTRAP and im also learning DJANGO<br>Honestly, I'm just learning and I'm still a teenager and undergraduate<br> <br>
