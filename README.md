@@ -1,7 +1,10 @@
 hello im 13 years old when i created this github account along with my replit account and im interested on some sort of making 2d and 3d animations, programming, and i want to learn black hat hacking, I am also learning about nmap, osint and maltego
 
 # 💫 About Me:
-I'm currently learning quite about operating system development, c sharp and c++, and im looking forward learning assembly soon<br>I'm looking forward to collaborating with professionals or someone who is a passionate coder or programmer<br>I have experience coding in HTML, CSS, JAVASCRIPT, PHP, EXPRESS.JS, BOOTSTRAP and im also learning DJANGO<br>Honestly, I'm just learning and I'm still a teenager and undergraduate<br> <br>
+I'm currently learning quite about operating system development, c sharp and c++, and im looking forward learning assembly soon<br>I'm looking forward to collaborating with professionals or someone who is a passionate coder or programmer<br>I have experience coding in HTML, CSS, JAVASCRIPT, PHP, EXPRESS.JS, BOOTSTRAP and im also learning DJANGO<br>Honestly, I'm just learning and I'm still a teenager and undergraduate<br>
+
+IVE MADE AN APP PUBLISHED IN MY GITHUB, THE APP INCLUDES BASIC CHAT AND DATA GATHERER IMPLEMENTED TO IMPROVE MENTAL HEALTH, THIS WAS MADE BY KOTLIN, YOU CAN SEE IT ON MY WEBSITE, THE APP ISNT PERFECT SINCE I PUBLISHED THAT APP PUBLICLY AT 16. (I CONNECTED IT TO FIREBASE DATABASE). THEREFORE, I HAVE AN ACCESS TO MANIPULATE AND ALTER THE MESSAGES FROM DIFFERENT USERS.
+<br>
 
 
 ## 🌐 Socials:
