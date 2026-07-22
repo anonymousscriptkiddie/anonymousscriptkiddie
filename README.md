@@ -1,3 +1,4 @@
+
 hello im 13 years old when i created this github account along with my replit account and im interested on some sort of making 2d and 3d animations, programming, and i want to learn black hat hacking, I am also learning about nmap, osint and maltego
 
 # 💫 About Me:
@@ -16,6 +17,28 @@ IVE MADE AN APP PUBLISHED IN MY GITHUB, THE APP INCLUDES BASIC CHAT AND DATA GAT
 ![](https://github-readme-stats.vercel.app/api?username=anonymousscriptkiddie&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=anonymousscriptkiddie&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousscriptkiddie&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Golden Yellow Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB703&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=40&fontColor=000000" width="100%" />
+</div>
+
+<!-- Golden Yellow Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-FFB703?style=for-the-badge&logo=cplusplus&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-FFB703?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Android-FFD700?style=for-the-badge&logo=android&logoColor=black" />
+</p>
+
+---
+
+<!-- Stats Cards with Yellow / Amber Accents -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=FFB703&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFB703" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=FFB703&text_color=FFFFFF&bg_color=0D1117&border_color=FFB703" alt="Top Languages" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anonymousscriptkiddie&limit=5&theme=dark&combine_all_yearly_contributions=true)
