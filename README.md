@@ -32,18 +32,15 @@ IVE MADE AN APP PUBLISHED IN MY GITHUB, THE APP INCLUDES BASIC CHAT AND DATA GAT
 ![](https://nirzak-streak-stats.vercel.app/?user=anonymousscriptkiddie&theme=calm_pink&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anonymousscriptkiddie&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+```text
+██████╗ ██████╗ ███████╗██║   ██╗██║██████╗ ██║   ██║███████╗
+██╔══██╗██╔══██╗██╔════╝██║   ██║██║██╔═══██╗██║   ██║██╔════╝
+██████╔╝██████╔╝█████╗  ██║   ██║██║██║   ██║██║   ██║███████╗
+██╔═══╝ ██╔══██╗██╔══╝  ██║   ██║██║██║   ██║██║   ██║╚════██║
+██║     ██║  ██║███████╗╚██████╔╝██║╚██████╔╝╚██████╔╝███████║
+╚═╝     ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝
 
-<p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&height=70&lines=PRECIOUS](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=500&height=70&lines=PRECIOUS)" alt="Pixelated Precious" />
-</p>
----
 
-<!-- Stats Cards with Yellow / Amber Accents -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=FFB703&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&border_color=FFB703" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=FFB703&text_color=FFFFFF&bg_color=0D1117&border_color=FFB703" alt="Top Languages" />
-</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anonymousscriptkiddie&limit=5&theme=dark&combine_all_yearly_contributions=true)
