@@ -1,4 +1,4 @@
-
+7896987. my discord acc for programming/coding collaboration (either locally or internationally im open)
 hello im 13 years old when i created this github account along with my replit account and im interested on some sort of making 2d and 3d animations, programming, and i want to learn black hat hacking, I am also learning about nmap, osint ,maltego, keyloggers, ethical spywares, and typescript
 
 # 💫 About Me:
