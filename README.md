@@ -3,6 +3,8 @@ hello im 13 years old when i created this github account along with my replit ac
 Darkweb, silk road, hidden wiki, and gor$ interest me the most
 "CULT OF THE DEAD COW"
 
+I AM NOT GONNA BOW MY HEAD AND KISS YOUR SHOE
+
 # 💫 About Me:
 I'm currently learning quite about operating system development, c sharp and c++, and im looking forward learning assembly soon<br>I'm looking forward to collaborating with professionals or someone who is a passionate coder or programmer<br>I have experience coding in HTML, CSS, JAVASCRIPT, PHP, EXPRESS.JS, BOOTSTRAP and im also learning DJANGO<br>Honestly, I'm just learning and I'm still a teenager and undergraduate<br>
 
