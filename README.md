@@ -4,8 +4,7 @@ Darkweb, silk road, hidden wiki, and gor$ interest me the most
 "CULT OF THE DEAD COW"
 Discovery, Nmap, Unicorn Scan, Fierce, Maltego, Passive Recon, Tcpdump, Wireshark, Nessus, NeXpose, Nipper, Openvas, qualys, SAINT, Core Impact, Metasploit, BackTrack, reconnaissance, Vulnerability Identification, Detecting the sniffer, Fluke Networks Protocol Analyzers, DNS Test, Netwirk Latency Tests, ping Test, Source-route method, Decoy method, Time Domain Refkectometer(TDR) METHOD, SECURE 
 message me here precious xv<- my facebook inquiry for my tech services
-
-
+REGR3TT FOR THE REST
 I AM NOT GONNA BOW MY HEAD AND KISS YOUR SHOE
 -------------One man’s trash is another man’s treasure
 MORE GOSSIPERS, MORE DANGERABLE LEAKS,AND INFORMATION GATHERED;
