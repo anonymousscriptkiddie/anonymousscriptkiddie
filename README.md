@@ -2,12 +2,15 @@
 hello im 13 years old when i created this github account along with my replit account and im interested on some sort of making 2d and 3d animations, payloads, programming, and i want to learn black hat hacking, I am also learning about nmap, osint ,maltego, keyloggers, ethical spywares, spoofing, malwares, trojan horse, zenmap, sherlock, backdoors, cryptography, networking, social engineering, typescript, dumpster diving, war driving, circuitry.
 Darkweb, silk road, hidden wiki, and gor$ interest me the most
 "CULT OF THE DEAD COW"
+Discovery, Nmap, Unicorn Scan, Fierce, Maltego, Passive Recon, Tcpdump, Wireshark, Nessus, NeXpose, Nipper, Openvas, qualys, SAINT, Core Impact, Metasploit, BackTrack, reconnaissance, Vulnerability Identification, Detecting the sniffer, Fluke Networks Protocol Analyzers, DNS Test, Netwirk Latency Tests, ping Test, Source-route method, Decoy method, Time Domain Refkectometer(TDR) METHOD, SECURE 
 message me here precious xv<- my facebook inquiry for my tech services
 
 
 I AM NOT GONNA BOW MY HEAD AND KISS YOUR SHOE
 -------------One man’s trash is another man’s treasure
-
+MORE GOSSIPERS, MORE DANGERABLE LEAKS,AND INFORMATION GATHERED;
+YOU CANNOT DEFEAT SOMEONE YOUVE CAUSED FIRST
+NOTHING MALEVOLENT OCCUR IF YOU ARE TREATING ME FAIRLY THANKS ;((((
 # 💫 About Me:
 I'm currently learning quite about operating system development, c sharp and c++, and im looking forward learning assembly soon<br>I'm looking forward to collaborating with professionals or someone who is a passionate coder or programmer<br>I have experience coding in HTML, CSS, JAVASCRIPT, PHP, EXPRESS.JS, BOOTSTRAP and im also learning DJANGO<br>Honestly, I'm just learning and I'm still a teenager and undergraduate<br>
 
