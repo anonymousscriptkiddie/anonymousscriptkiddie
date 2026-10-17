@@ -12,7 +12,9 @@ YOU CANNOT DEFEAT SOMEONE YOUVE CAUSED FIRST
 NOTHING MALEVOLENT OCCUR IF YOU ARE TREATING ME FAIRLY THANKS ;((((
 # 💫 About Me:
 I'm currently learning quite about operating system development, c sharp and c++, and im looking forward learning assembly soon<br>I'm looking forward to collaborating with professionals or someone who is a passionate coder or programmer<br>I have experience coding in HTML, CSS, JAVASCRIPT, PHP, EXPRESS.JS, BOOTSTRAP and im also learning DJANGO<br>Honestly, I'm just learning and I'm still a teenager and undergraduate<br>
-
+Wonder how it started?
+my teacher called me a dumb in algenbra, and i thought binary numbers are algebra
+Ive been using the chubby computer of my parents when i was 5-6 y.o just to draw happy face in word and play plants vs zombies
 IVE MADE AN APP PUBLISHED IN MY GITHUB, THE APP INCLUDES BASIC CHAT AND DATA GATHERER IMPLEMENTED TO IMPROVE MENTAL HEALTH, THIS WAS MADE BY KOTLIN, YOU CAN SEE IT ON MY WEBSITE, THE APP ISNT PERFECT SINCE I PUBLISHED THAT APP PUBLICLY AT 16. (I CONNECTED IT TO FIREBASE DATABASE). THEREFORE, I HAVE AN ACCESS TO MANIPULATE AND ALTER THE MESSAGES FROM DIFFERENT USERS.
 <br>
 
