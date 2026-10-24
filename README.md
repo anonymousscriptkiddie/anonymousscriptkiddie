@@ -1,5 +1,8 @@
 I AM RESIGNED INTO HACKING IT MAKES ME FEEL MISERABLE FOR OTHERS, BUT I CAN OPEN ITS DOOR FOR PEOPLE WHO MAKES ME UNSAFE, HOPEFULLY IT WONT HAPPEN :/ <- its agonizing
  FAVORITE QUOTES
+
+
+ 
  A child whose not embraced by a village, will burn the village on its own
  when did you see a newborn infant that can talk and stand on its own?
 
