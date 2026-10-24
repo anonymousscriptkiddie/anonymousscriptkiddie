@@ -1,5 +1,7 @@
 I AM RESIGNED INTO HACKING IT MAKES ME FEEL MISERABLE FOR OTHERS, BUT I CAN OPEN ITS DOOR FOR PEOPLE WHO MAKES ME UNSAFE, HOPEFULLY IT WONT HAPPEN :/ <- its agonizing
-
+ FAVORITE QUOTES
+ A child whose not embraced by a village, will burn the village on its own
+ when did you see a newborn infant that can talk and stand on its own?
 
 7896987. my discord acc for programming/coding collaboration (either locally or internationally im open)
 hello im 13 years old when i created this github account along with my replit account and im interested on some sort of making 2d and 3d animations, payloads, programming, and i want to learn black hat hacking, I am also learning about nmap, osint ,maltego, keyloggers, ethical spywares, spoofing, malwares, trojan horse, zenmap, sherlock, backdoors, cryptography, networking, social engineering, typescript, dumpster diving, war driving, circuitry.
